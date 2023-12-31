@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "478667190953",
+    "project_id": "propos-activ",
+    "storage_bucket": "propos-activ.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478667190953:android:2958074b61dd00ddb16fb8",
+        "android_client_info": {
+          "package_name": "com.example.propose_activ"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF3jo_Opmk-vduD-WjtN-PGUYAGnzpyrE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
